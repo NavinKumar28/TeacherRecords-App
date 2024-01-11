@@ -1,0 +1,7 @@
+D:\SIMPLILEARN\vstudio\Teacher Recods App\bin\Debug\Teacher Recods App.exe.config
+D:\SIMPLILEARN\vstudio\Teacher Recods App\bin\Debug\Teacher Recods App.exe
+D:\SIMPLILEARN\vstudio\Teacher Recods App\bin\Debug\Teacher Recods App.pdb
+D:\SIMPLILEARN\vstudio\Teacher Recods App\obj\Debug\Teacher Recods App.csproj.AssemblyReference.cache
+D:\SIMPLILEARN\vstudio\Teacher Recods App\obj\Debug\Teacher Recods App.csproj.CoreCompileInputs.cache
+D:\SIMPLILEARN\vstudio\Teacher Recods App\obj\Debug\Teacher Recods App.exe
+D:\SIMPLILEARN\vstudio\Teacher Recods App\obj\Debug\Teacher Recods App.pdb
